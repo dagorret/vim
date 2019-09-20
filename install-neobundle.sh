@@ -1,5 +1,4 @@
 #!/bin/sh
-# Standalone installer for Unixs
 # Original version is created by shoma2da
 # https://github.com/shoma2da/neobundle_installer
 
